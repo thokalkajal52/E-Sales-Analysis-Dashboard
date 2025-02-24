@@ -12,5 +12,5 @@ PowerBI Tool (Data Visualization).
 
 ### Dataset:
 The dataset used in this project: 
-<a herf = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/sales.csv">Sales Dataset</a>
+<a href = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/sales.csv">Sales Dataset</a>
 
