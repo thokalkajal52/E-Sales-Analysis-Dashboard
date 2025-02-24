@@ -23,10 +23,11 @@ E Sales Python File
 <a href = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/SalesAnalysis.py">Sales Python File</a>
 
 ## Task List :
-# Python : 
+Python : 
 - [ ] Import libraries and load data
-- [ ] Clean  data using Pandas 
-# Power Bi :
+- [ ] Clean  data using Pandas
+       
+Power Bi :
 - [ ] Create Queries 
 - [ ] Create Interactive Dashboard
       
