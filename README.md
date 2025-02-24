@@ -14,3 +14,19 @@ PowerBI Tool (Data Visualization).
 The dataset used in this project: 
 <a href = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/sales.csv">Sales Dataset</a>
 
+## Dashboard :
+E Sales Dashboard : 
+<a href = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/sales%20data%20analytics%20project.pbix">E Sales(Report/Dashboard)</a>
+
+## python Code :
+E Sales Python File
+<a href = "https://github.com/thokalkajal52/E-Sales-Analysis-Dashboard/blob/main/SalesAnalysis.py">Sales Python File</a>
+
+## Task List :
+  Python : 
+- [ ] Import libraries and load data
+- [ ] Clean  data
+  Power Bi :
+- [ ] Create Queries 
+- [ ] Create Interactive Dashboard
+      
