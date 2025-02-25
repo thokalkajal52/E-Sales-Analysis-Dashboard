@@ -1,4 +1,4 @@
-# Analyzing Amazon Electronics Sales Data with Python
+# E Sales Data with Python
 
 ## Description:
 
