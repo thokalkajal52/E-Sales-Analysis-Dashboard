@@ -1,4 +1,4 @@
-# E Sales Data with Python
+# E Sales Data Analysis Project
 
 ## Description:
 
